@@ -1,4 +1,4 @@
-# bolt.diy
+# the  bolt.diy
 
 [![bolt.diy: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index(1).jpg)](https://bolt.diy)
 
